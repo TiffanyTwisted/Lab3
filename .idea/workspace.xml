@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c27dc4c8-58cf-415c-bd1d-4fa594dcd777" name="Default Changelist" comment="" />
+    <list default="true" id="c27dc4c8-58cf-415c-bd1d-4fa594dcd777" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab_3/bsu/rfict/java/group7/lab3/Shirko/GornerTableModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab_3/bsu/rfict/java/group7/lab3/Shirko/GornerTableModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsu/rfict/java/group7/lab3/Shirko/GornerTableModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsu/rfict/java/group7/lab3/Shirko/GornerTableModel.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bsu/rfict/java/group7/lab3/Shirko/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="166" column="64" lean-forward="true" selection-start-line="166" selection-start-column="64" selection-end-line="166" selection-end-column="64" />
+            <state relative-caret-position="-1794">
+              <caret line="266" column="45" selection-start-line="266" selection-start-column="45" selection-end-line="266" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -40,17 +44,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bsu/rfict/java/group7/lab3/Shirko/GornerTableCellRenderer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+            <state relative-caret-position="313">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/bsu/rfict/java/group7/lab3/Shirko/GornerTableModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="87" selection-start-line="87" selection-end-line="87" />
+            <state relative-caret-position="328">
+              <caret line="61" column="32" lean-forward="true" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -63,6 +70,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -78,42 +88,22 @@
     <option name="width" value="910" />
     <option name="height" value="768" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Lab_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lab_3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lab_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lab_3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lab_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lab_3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Shirko" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573161499740" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Полина/2 курс/Java/Laba_3C/Laba_3C/src/laba_3C/MainFrame.java" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573464619978" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -131,7 +121,7 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="bsu.rfict.java.group7.lab3.Shirko.Main" />
       <module name="Lab_3" />
-      <option name="PROGRAM_PARAMETERS" value="3 5 " />
+      <option name="PROGRAM_PARAMETERS" value="5 0.1 0.5 0.3" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
@@ -158,17 +148,23 @@
       <workItem from="1573234627230" duration="2073000" />
       <workItem from="1573242309602" duration="2101000" />
       <workItem from="1573292068569" duration="2340000" />
-      <workItem from="1573297257989" duration="284000" />
+      <workItem from="1573297257989" duration="1062000" />
+      <workItem from="1573462022374" duration="2104000" />
+      <workItem from="1573465756465" duration="336000" />
+      <workItem from="1573473208524" duration="3209000" />
+      <workItem from="1573571613625" duration="185000" />
+      <workItem from="1573573403545" duration="3439000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12268000" />
+    <option name="totallyTimeSpent" value="22319000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13993949" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15128593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -177,7 +173,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.63502455" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.09492635" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -185,7 +181,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -235,27 +231,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bsu/rfict/java/group7/lab3/Shirko/GornerTableCellRenderer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../Lab_4/src/bsu/rfict/java/group7/lab4/Shirko/GraphicsDisplay.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bsu/rfict/java/group7/lab3/Shirko/GornerTableModel.java">
+    <entry file="file://$PROJECT_DIR$/../Lab_4/src/bsu/rfict/java/group7/lab4/Shirko/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lab_4/Lab_4.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bsu/rfict/java/group7/lab3/Shirko/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="166" column="64" lean-forward="true" selection-start-line="166" selection-start-column="64" selection-end-line="166" selection-end-column="64" />
+        <state relative-caret-position="-1794">
+          <caret line="266" column="45" selection-start-line="266" selection-start-column="45" selection-end-line="266" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bsu/rfict/java/group7/lab3/Shirko/GornerTableCellRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bsu/rfict/java/group7/lab3/Shirko/GornerTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="61" column="32" lean-forward="true" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
         </state>
       </provider>
     </entry>

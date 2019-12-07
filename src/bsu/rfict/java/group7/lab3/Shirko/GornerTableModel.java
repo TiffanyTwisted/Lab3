@@ -30,7 +30,7 @@ public class GornerTableModel extends AbstractTableModel {
     }
     public int getColumnCount() {
         // В данной модели 3 столбца
-        return 3;
+        return 4;
     }
     public int getRowCount() {
         // Вычислить количество точек между началом и концом отрезка
@@ -47,13 +47,15 @@ public class GornerTableModel extends AbstractTableModel {
             case 1:
             {
                 result[0] = 0.0;
-                for(int i = 0; i < coefficients.length; i++){
-                    result[0] += Math.pow(x, coefficients.length-1-i)*coefficients[i];
+               // result[0] = Math.sin(x * coefficients.length);
+               for(int i = 0; i < coefficients.length; i++){
+
+                     result[0] += Math.pow(x, coefficients.length-1-i)*coefficients[i];
                 }
                 return result[0];
             }
 
-            default: {
+            case 2: {
 
                 if (result[0] > 0)
                 {
@@ -61,8 +63,12 @@ public class GornerTableModel extends AbstractTableModel {
 
                 }else return false;
 
-
-
+            }
+            default:
+            {
+                if (result[0] == 0)
+                    return "good";
+                else return "pain";
             }
 
         }
@@ -75,17 +81,26 @@ public class GornerTableModel extends AbstractTableModel {
                 return "Значение Х";
                 case(1):
                     return "Значение многочлена";
-                    default:
+                    case(2):
                         return "Значение больше нуля?";
+                        default:
+                            return "Life is ?";
 
         }
     }
     public Class<?> getColumnClass(int col) {
         // И в 1-ом и во 2-ом столбце находятся значения типа Double
-        if (col == 2)
-            return Boolean.class;
-        else return Double.class;
+        switch (col){
+            case 0:
+                return Double.class;
+            case 1:
+                return Double.class;
+            case 2:
+                return Boolean.class;
+                default:
+                    return String.class;
 
+        }
 
     }
 
